@@ -820,6 +820,8 @@ h6,
 
 }
 
-
+.modal-lg {
+    max-width: 900px;
+  }
 
 ;
